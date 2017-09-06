@@ -1,5 +1,4 @@
 html {
-	font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
 	font-family: 'Exo 2', sans-serif;
 }
 
@@ -29,8 +28,7 @@ body {
 html {
 	margin: 0;
 	padding: 20px 0;
-	color: #00539f;
-	text-shadow: 3px 3px 1px black;
+	color: black;
 }
 
 img {
